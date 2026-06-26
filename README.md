@@ -19,6 +19,3 @@ Most agent guidance assumes a greenfield project. This is the opposite: the dang
 
 Working in a live, inherited codebase isn't a creativity problem — it's a **blast-radius** problem. Verify before you touch, isolate before you edit, add before you delete, and keep a human between "looks done" and "it's live." Move fast inside those rails.
 
-## License
-
-MIT — use it, fork it, adapt it to your stack.
