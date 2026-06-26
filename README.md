@@ -1,4 +1,5 @@
-# CLAUDE.md — Rules for changing software you didn't build (Inherited, Live Codebase)
+# Rules for changing software you didn't build 
+(Inherited, Live Codebase)
 
 A drop-in `CLAUDE.md` for anyone using an AI coding agent (Claude, Cursor, Replit Agent, Copilot, etc.) to change software that is **already built and in production** — the common case of joining a project mid-stream, with real users and real data, where the agent writes the actual code.
 
